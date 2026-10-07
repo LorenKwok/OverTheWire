@@ -9,7 +9,9 @@ The start of many beginnings. In this first level, you will learn to connect to 
 
 ## Commands ##
 ```ssh``` to initiate the SSH process
+
 ```-p [port number]``` to connect to a specific port
+
 ```[username]@[domain name]``` to indicate the host and user we are connecting as
 
 ## Solution ##

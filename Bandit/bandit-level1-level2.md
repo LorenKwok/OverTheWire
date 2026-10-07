@@ -12,7 +12,9 @@ Following up on the previous level, we will need to ssh into ```bandit1@bandit.l
 
 ## Commands ##
 ``` ls ```
+
 ``` cat ```
+
 ``` ./ ``` Used as a prefix to indicate current directory. When used with commands, it will look for the path instead of the individual file.
 
 ## Solution ##

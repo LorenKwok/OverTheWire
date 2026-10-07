@@ -1,12 +1,17 @@
 # Bandit Level 3 -> Level 4 #
 
+## Level Goal ##
+
+The password for the next level is stored in a hidden file in the inhere directory.
+
 ## Details ##
-    The password for the next level is stored in a hidden file in the inhere directory.
 Using commands learned in the previous levels, we can access the directory known as ```inhere```.
 
 ## Commands ##
 ```ls -a`` To see all files in the directory including hidden ones
+
 ```cd [Directory Name]```
+
 ```cat```
 
 ## Solution ##

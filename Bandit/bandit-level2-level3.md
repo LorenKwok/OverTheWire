@@ -9,8 +9,11 @@ In this level, we'll learn how to print a file with spaces in its name.
 
 ## Commands ##
 ```ls```
+
 ```cat```
+
 ```./ [file name]```
+
 ```\ [Space]``` If there is a space, you may utilize backslash followed by a space to signify that there is a space. Simply typing the space would not work.
 
 ## Solution ##
