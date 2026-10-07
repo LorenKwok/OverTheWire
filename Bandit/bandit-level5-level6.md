@@ -33,6 +33,7 @@ To find files with a specific file size, we need to add ```-size``` followed by 
 Finally, to filter by executable, we would simply type ```-executable```. However, in this case we are trying to find a file that is *not executable*. As such, we would use ```! -executable```
 
 Altogether we would use the following command:
+
     -find -size 1033c ! -executable
 
 Luckily, there is only one file that showed up with these parameters. 

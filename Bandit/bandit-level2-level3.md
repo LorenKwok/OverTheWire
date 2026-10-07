@@ -20,6 +20,7 @@ In this level, we'll learn how to print a file with spaces in its name.
 Same as the previous level, you would ```ls``` to identify the files in the current directory. In this case, there is a single file called ```--spaces in this filename--```. In this case, there are spaces in the filename that you would need to resolve in order for ```cat``` to properly print the contents of the file.
 
 We learned in the previous level to use ```./``` to specify the direct path since the file name starts with ```-```. With spaces in the file name, you will need to utilize a backslash, ```\```, followed by a space. Altogether, it will look like this:
+
     cat ./--spaces\ in\ this\ filename--
 
 Afterwards, you will get the password. 

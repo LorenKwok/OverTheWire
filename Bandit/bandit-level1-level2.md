@@ -21,7 +21,9 @@ Following up on the previous level, we will need to ssh into ```bandit1@bandit.l
 Once again, you may use ```ls``` to look at the current files in the directory. As per the instructions, there is a ```-``` file. If you do ```cat -```, nothing will happen because normally ```-``` implies an argument in Bash. In which case, this is a file and not an argument so there will be a conflict.
 
 As such we will need to use the prefix ```./``` before the file name to signify the path. Overall, the command would look like:
+
     cat ./-
+    
 Once that's done, you will get the password to the next level.
 
 * PS. If you find yourself stuck like this:
