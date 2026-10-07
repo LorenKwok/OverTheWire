@@ -2,6 +2,7 @@
 
 ## Details ##
   The password for the next level is stored in a file called - located in the home directory
+
 First type ```exit```, to cancel the SSH connection to bandit0. 
 
 Following up on the previous level, we will need to ssh into ```bandit1@bandit.labs.overthewire.org``` this time. When asked for the password, we will input the password from the readme file we obtained earlier.
