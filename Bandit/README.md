@@ -6,15 +6,13 @@
 
 ## Levels ##
 
-| Level | 
+[Level 0](bandit-level-0.md)
 
-| Level 0 |
+[Level 0 &rarr; 1](bandit-level1-level2.md)
 
-| Level 0 &rarr; 1 |
+[Level 1 &rarr; 2](bandit-level2-level3.md)
 
-| Level 1 &rarr; 2 |
-
-| Level 2 &rarr; 3 |
+[Level 2 &rarr; 3](bandit-level3-level4.md)
 
 | Level 3 &rarr; 4 |
 
