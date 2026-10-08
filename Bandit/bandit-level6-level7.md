@@ -13,7 +13,7 @@ owned by group bandit6
 
 ## Details ##
 
-More ```find``` command usage here.
+More ```find``` command usage here in this level.
 
 ## Commands ##
 ```find```
