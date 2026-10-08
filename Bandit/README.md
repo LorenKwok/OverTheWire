@@ -20,13 +20,13 @@
 
 [Level 5 &rarr; 6](bandit-level5-level6.md)
 
-| Level 6 &rarr; 7 |
+[Level 6 &rarr; 7](bandit-level6-level7.md)
 
-| Level 7 &rarr; 8 |
+[Level 7 &rarr; 8](bandit-level7-level8.md)
 
-| Level 8 &rarr; 9 |
+[Level 8 &rarr; 9](bandit-level8-level9.md)
 
-| Level 9 &rarr; 10 |
+[Level 9 &rarr; 10](bandit-level9-level10.md)
 
 | Level 10 &rarr; 11 |
 
