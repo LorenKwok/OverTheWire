@@ -40,7 +40,9 @@ After renaming it to [name of file].gz, you must run ```gzip -d [name of file]``
 Each time, you need to make sure to use ```mv``` to rename the file to the correct extension:
 
 -```.gz``` for gzip files
+
 -```.bz2``` for bzip files
+
 -```.tar``` for tar files
 
 Also, make sure to ```cat``` each time as you will eventually have to check if the password is there.
