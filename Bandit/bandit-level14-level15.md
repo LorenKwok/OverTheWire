@@ -15,7 +15,7 @@ Thankfully a simpler level to make up for the last level. Here, we learn how to 
 
 As instructed in the previous level, we'd need to retrieve the password from /etc/bandit_pass/bandit14, bandit14 being a file.
 
-   cat /etc/bandit_pass/bandit14
+    cat /etc/bandit_pass/bandit14
 
 Let's take this password and submit it to ```localhost``` through ```telnet port 30000``` using the following command.
 
