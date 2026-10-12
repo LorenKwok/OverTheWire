@@ -38,7 +38,7 @@ So we would see that the owner has read and write permissions but not execute pe
 
 We would need to copy the file over to our local host using Secure Copy Protocol. To do this, we would need to go back to our local host then use the following command:
     
-   scp -p 2220 bandit13@bandit.labs.overthewire.org:/home/bandit13/sshkey.private ./sshkey.private
+    scp -p 2220 bandit13@bandit.labs.overthewire.org:/home/bandit13/sshkey.private ./sshkey.private
 
 To break this down, we are running the ```scp``` command. We are doing this through port 2220. We are accessing the ```bandit13@bandit.labs.overthewire.org``` host with a ```:``` to denote the directory afterwards which is ```/home/bandit13/sshkey.private```. We are then specifying the exact file we are trying to copy along with its wildcard directory pathway which is ```./sshkey.private```.
 
