@@ -47,4 +47,4 @@ Each time, you need to make sure to use ```mv``` to rename the file to the corre
 
 Also, make sure to ```cat``` each time as you will eventually have to check if the password is there.
 
-Once you go through enough cycles of decompressions (and there's quite a lot), the contents will eventually show 'The password is _________'
+Once you go through enough cycles of decompressions (and there's quite a lot), the contents will eventually show 'The password is _________'.
