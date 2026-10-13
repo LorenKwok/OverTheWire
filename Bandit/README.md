@@ -28,27 +28,27 @@
 
 [Level 9 &rarr; 10](bandit-level9-level10.md)
 
-| Level 10 &rarr; 11 |
+[Level 10 &rarr; 11](bandit-level10-level11.md)
 
-| Level 11 &rarr; 12 |
+[Level 11 &rarr; 12](bandit-level11-level12.md)
 
-| Level 12 &rarr; 13 |
+[Level 12 &rarr; 13](bandit-level12-level13.md)
 
-| Level 13 &rarr; 14 |
+[Level 13 &rarr; 14](bandit-level13-level14.md)
 
-| Level 14 &rarr; 15 |
+[Level 14 &rarr; 15](bandit-level14-level15.md)
 
-| Level 15 &rarr; 16 |
+[Level 15 &rarr; 16](bandit-level15-level16.md)
 
-| Level 16 &rarr; 17 |
+[Level 16 &rarr; 17](bandit-level16-level17.md)
 
-| Level 17 &rarr; 18 |
+[Level 17 &rarr; 18](bandit-level17-level18.md)
 
-| Level 18 &rarr; 19 |
+[Level 18 &rarr; 19](bandit-level18-level19.md)
 
-| Level 19 &rarr; 20 |
+[Level 19 &rarr; 20](bandit-level19-level20.md)
 
-| Level 20 &rarr; 21 |
+[Level 20 &rarr; 21](bandit-level20-level21.md)
 
 | Level 21 &rarr; 22 |
 
