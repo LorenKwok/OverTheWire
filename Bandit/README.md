@@ -8,25 +8,25 @@
 
 [Level 0](bandit-level-0.md)
 
-[Level 0 &rarr; 1](bandit-level0-level1.md)
+[Level 0 &rarr; 1](bandit-level00-level01.md)
 
-[Level 1 &rarr; 2](bandit-level1-level2.md)
+[Level 1 &rarr; 2](bandit-level01-level02.md)
 
-[Level 2 &rarr; 3](bandit-level2-level3.md)
+[Level 2 &rarr; 3](bandit-level02-level03.md)
 
-[Level 3 &rarr; 4](bandit-level3-level4.md)
+[Level 3 &rarr; 4](bandit-level03-level04.md)
 
-[Level 4 &rarr; 5](bandit-level4-level5.md)
+[Level 4 &rarr; 5](bandit-level04-level05.md)
 
-[Level 5 &rarr; 6](bandit-level5-level6.md)
+[Level 5 &rarr; 6](bandit-level05-level6.md)
 
-[Level 6 &rarr; 7](bandit-level6-level7.md)
+[Level 6 &rarr; 7](bandit-level06-level07.md)
 
-[Level 7 &rarr; 8](bandit-level7-level8.md)
+[Level 7 &rarr; 8](bandit-level07-level08.md)
 
-[Level 8 &rarr; 9](bandit-level8-level9.md)
+[Level 8 &rarr; 9](bandit-level08-level09.md)
 
-[Level 9 &rarr; 10](bandit-level9-level10.md)
+[Level 9 &rarr; 10](bandit-level09-level10.md)
 
 [Level 10 &rarr; 11](bandit-level10-level11.md)
 

@@ -46,4 +46,4 @@ Once we have that copied, we can easily create a new file using the ```nano [fil
 
 Finally, we can SSH into bandit17 using the key. If you forgot the command, here it is:
     
-    ssh -p 2220 -i bandit17.key bandit17@bandit.labs.overthewire.org
+    ssh -p 2220 -i [file name] bandit17@bandit.labs.overthewire.org

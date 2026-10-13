@@ -18,7 +18,7 @@ This level requires you to either have two terminals open or run ```tmux```. We'
 
 ```tmux``` is a command that allows you to create a new window in the same terminal. It will be useful as we will need to use one window that will be in charge of the listener while the other window will run the setuid binary file.
 
-First, run ```tmux``` then split the windows either vertically, with ```CTRL+B and %``` or horizontally ```CTRL+B and "```. Make sure that whenever you use a tmux control, to always click CTRL+B then release afterwards before entering the next input. You can easily switch between different windows by using ```CTRL+B``` with the arrow keys on your keyboard.
+First, run ```tmux``` then split the windows either vertically, with ```CTRL+B and %``` or horizontally ```CTRL+B and "```. Make sure that whenever you use a tmux control, always click CTRL+B then release afterwards before entering the next input. You can easily switch between different windows by using ```CTRL+B``` with the arrow keys on your keyboard.
 
 We will log into bandit20 on both windows. Aftewards, let's set up the listener first on one of the windows. We'll need to use a port that isn't already in use. In this case, I used port 1333:
     

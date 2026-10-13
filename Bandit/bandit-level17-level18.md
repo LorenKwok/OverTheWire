@@ -12,6 +12,6 @@ Very simple level, but that's because it's a precursor for the next level.
 ```diff``` Command to compare lines between two files.
 
 ## Solution ##
-Simply use the ```diff [file 1] [file2]``` command and it will print the differences between the two files. The output will also point towards the differences in whichever file for you to easily refer to.
+Simply use the ```diff [file 1] [file2]``` command and it will print the differences between the two files. The output will also have arrows that point to each file along with each difference.
 
 Simply use the new password to access bandit18. The host will kick us out with a 'Byebye!' message but that's supposed to happen. We'll have to refer to this for bandit18 -> 19.
