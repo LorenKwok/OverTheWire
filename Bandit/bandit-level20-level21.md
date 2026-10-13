@@ -21,9 +21,11 @@ This level requires you to either have two terminals open or run ```tmux```. We'
 First, run ```tmux``` then split the windows either vertically, with ```CTRL+B and %``` or horizontally ```CTRL+B and "```. Make sure that whenever you use a tmux control, to always click CTRL+B then release afterwards before entering the next input. You can easily switch between different windows by using ```CTRL+B``` with the arrow keys on your keyboard.
 
 We will log into bandit20 on both windows. Aftewards, let's set up the listener first on one of the windows. We'll need to use a port that isn't already in use. In this case, I used port 1333:
+    
     nc -l localhost 1333
 
 Once we do that, it'll be listening until it receives an input from the other side. Now on the other window, we will need to execute the setuid binary file called ```suconnect``` like in the previous level, followed by the port number we specified earlier: ```1333```.
+    
     ./suconnect 1333
 
 Now, both sides are connected and suconnect is waiting for an input from the listener. On the listener, we can input the password of the current level. Once that's done, suconnect will indicate that 'Password matches, sending next password', and we will receive the password for bandit21 on the listener.
