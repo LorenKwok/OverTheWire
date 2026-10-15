@@ -18,7 +18,7 @@ By far the toughest level we've encountered. In this level, we will have to inte
 ## Solution ##
 Just like the previous levels concerning cron jobs, we will look into ```/etc/cron.d/``` and ```cat``` the related cron file: ```cronjob_bandit24```. It would then redirect us to a shell script so let's open it up:
 
-    ```cat/usr/bin/cronjob_bandit24.sh```
+    cat/usr/bin/cronjob_bandit24.sh
 
 Inside is the following script:
 
