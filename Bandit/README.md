@@ -50,13 +50,13 @@
 
 [Level 20 &rarr; 21](bandit-level20-level21.md)
 
-| Level 21 &rarr; 22 |
+[Level 21 &rarr; 22](bandit-level21-level22.md)
 
-| Level 22 &rarr; 23 |
+[Level 22 &rarr; 23](bandit-level22-level23.md)
 
-| Level 23 &rarr; 24 |
+[Level 23 &rarr; 24](bandit-level23-level24.md)
 
-| Level 24 &rarr; 25 |
+[Level 24 &rarr; 25](bandit-level24-level25.md)
 
 | Level 25 &rarr; 26 |
 

@@ -34,7 +34,7 @@ Second, ```shopt -s nullglob``` is a command known as 'shell option' which, as d
 
 ```cd /var/spool/"$myname"/foo``` changes to the directory of interest which would eventually be /var/spool/bandit24/foo.
 
-As for ```echo "Executing and deleting all scripts in /var/spool/$myname/foo:", we don't need to be cocnerned with this since output is being sent into /dev/null anyway.
+As for ```echo "Executing and deleting all scripts in /var/spool/$myname/foo:"```, we don't need to be cocnerned with this since output is being sent into /dev/null anyway.
 
 ```for i in * .*;``` creates for loop iteration related to any file or hidden file in the directory as denoted by * .* (it would catch both).
 
