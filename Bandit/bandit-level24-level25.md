@@ -19,9 +19,9 @@ Challenging level that I personally learned a LOT from. In this level, we will h
 ## Solution ##
 I've racked my brain trying several methods from trying to nmap to find the name of the daemon, SSHing to port 30002, running a script as well as trying all sorts of commands to try to get the brute force automation to work.
 
-There's no need to nmap as you don't need to know the name of the daemon or anything. All you need to be concerned with is the localhost and port 30002. SSH doesn't work since the listener doesn't speak SSH. OverTheWire does not allow scripts to run here.
+There's no need to nmap as you don't need to know the name of the daemon or anything. All you need to be concerned with is the localhost and port 30002. SSH doesn't work since the listener doesn't speak SSH. Also, OverTheWire does not allow scripts to run here.
 
-What we'll do is write the commands on a textfile in our desktop for ease of use then run it on the user (bandit24) itself.
+What we'll do instead is write the commands on a textfile in our desktop for ease of use then run it on the user (bandit24) itself.
 
 So let's break down the logic to make it easier for you to understand:
 
