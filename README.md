@@ -4,6 +4,6 @@ OverTheWire is a website containing several series and levels that allow users t
 
 | Series | Levels | Status |
 | :----: | :----: | :----: |
-| [Bandit](/Overthewire/Bandit) | 33 | Completed |
+| [Bandit](/OverTheWire/Bandit) | 33 | Completed |
 | Natas | 34 | In Progress |
 
