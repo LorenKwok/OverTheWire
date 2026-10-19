@@ -1,8 +1,27 @@
 # Bandit #
 
 ## What is Bandit ##
+Bandit is the first set of wargames series by OverTheWire that teaches its users about Linux Shell, called Bash (Bourne Again Shell), as well as several concepts including networking, exploitation, scripting, and Git. The levels involve conducting a Secure Shell (SSH) connection to OverTheWire's Bandit server.
+
+Please read up on the commands and other concepts that OverTheWire provides in their levels. Don't be afraid to look up solutions as a way to learn, but make sure you absorb the knowledge from them.
+
+You can access the levels here: https://overthewire.org/wargames/bandit/
 
 ## Learning Outcomes ##
+
+-Bash commands (text search, text extraction, file and directory creation, screens, piping)
+
+-Networking (nmap, netcat, SSH)
+
+-File and directory system navigation (cd, cat, ls)
+
+-File permissions (permissions notation, setuid)
+
+-Encoding, cryptography, compression (base64, xxd, ROT13, tar, gz, bz2)
+
+-Task automation (cron)
+
+-Git structure and commands
 
 ## Levels ##
 
@@ -58,18 +77,18 @@
 
 [Level 24 &rarr; 25](bandit-level24-level25.md)
 
-| Level 25 &rarr; 26 |
+[Level 25 &rarr; 26](bandit-level25-level26.md)
 
-| Level 26 &rarr; 27 |
+[Level 26 &rarr; 27](bandit-level26-level27.md)
 
-| Level 27 &rarr; 28 |
+[Level 27 &rarr; 28](bandit-level27-level28.md)
 
-| Level 28 &rarr; 29 |
+[Level 28 &rarr; 29](bandit-level28-level29.md)
 
-| Level 29 &rarr; 30 |
+[Level 29 &rarr; 30](bandit-level29-level30.md)
 
-| Level 30 &rarr; 31 |
+[Level 30 &rarr; 31](bandit-level30-level31.md)
 
-| Level 31 &rarr; 32 |
+[Level 31 &rarr; 32](bandit-level31-level32.md)
 
-| Level 32 &rarr; 33 |
+[Level 32 &rarr; 33](bandit-level32-level33.md)
