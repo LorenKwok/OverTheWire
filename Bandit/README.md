@@ -23,6 +23,12 @@ You can access the levels here: https://overthewire.org/wargames/bandit/
 
 -Git structure and commands
 
+## Setup ##
+
+As Bandit uses Linux shell for its levels, it is highly recommended to run a Linux OS through a virtual machine using software like VMWare or VirtualBox. I used VirtualBox with an Ubuntu ISO which you may find in their website here: https://ubuntu.com/desktop
+
+You would create a new virtual machine in your virtualization software then ingest the Linux-based ISO. If you're just trying to do this level, you won't need a lot of RAM/memory. Maybe about 2GB of RAM and approximately 1-2GB of memory would suffice. I also did an unattended guest setup which creates a local account in the VM. Once you're inside the desktop, you start by opening the shell or terminal.
+
 ## Levels ##
 
 [Level 0](bandit-level-0.md)
