@@ -17,6 +17,7 @@ First we need to ```cat``` the ```data.txt``` again. Afterwards, we'd pipe to us
 To rotate ROT13, we'd need to use the ```tr``` command to translate N-Z back to A-M and n-z back to a-m. If you count manually, N is 13 rotations away from A and so is Z from M. After entering ```tr```, you would enter ```A-Za-z``` to specify the range that we are working with which is both upper and lower case of the entire alphabet. Finally, we'd enter ```'N-ZA-Mn-za-m'``` which converts N-Z back to A-M and n-z back to a-m.
 
 Altogether, it would look like:
+    
     cat data.txt | tr 'A-Za-z' 'N-ZA-Mn-za-m'
 
 Then we will find the password from there.

@@ -15,6 +15,7 @@ Take a look at the contents of the directory using ```ls``` and you'll find a ba
 If you remember from one of the previous levels, setuid gives you elevated permissions.
 
 Execute this file along with opening the password folder for bandit27:
+   
     ./bandit27-do cat /etc/bandit_pass/bandit27
 
 You'll find the password to the next level.

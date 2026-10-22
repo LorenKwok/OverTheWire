@@ -16,6 +16,7 @@ The start of many beginnings. In this first level, you will learn to connect to 
 
 ## Solution ##
 Altogether it will look like:
+   
     ssh -p 2220 bandit0@bandit.labs.overthewire.org
 
 After you enter the correct command, you will receive a password prompt. In bash, the password is hidden so it would seem like nothing is being typed, but trust that it's there. Enter the password to move onto the next level.

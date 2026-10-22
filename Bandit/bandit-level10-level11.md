@@ -15,6 +15,7 @@ In this level, we will learn how to use Base64 decoding. Base64 is a format by w
 This level's quite simple since it's meant to let you test the ```base64``` command. Simply, ```cat``` the ```data.txt``` file then pipe it with ```base64 -d``` which is the command to decode the base64 text.
 
 Altogether it would look like this:
+    
     cat data.txt | base64-d
 
 There's our password.

@@ -26,8 +26,8 @@ As such we will need to use the prefix ```./``` before the file name to signify 
     
 Once that's done, you will get the password to the next level.
 
-* PS. If you find yourself stuck like this:
+*PS. If you find yourself stuck like this:*
 
 ![alt text](screenshots/image.png)
 
-Simply click `CTRL+C` to go back.
+*Simply click `CTRL+C` to go back.*

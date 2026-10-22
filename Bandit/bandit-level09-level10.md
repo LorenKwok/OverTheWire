@@ -23,4 +23,5 @@ You may immediately see the password there, which matches the patterns for the o
 However, if we were to improve on this, we could have optimized the commands to better filter the noise. The level advises us that the password is *preceded by several '=' characters*. To accomplish this, we would use the ```^``` symbol before ```=``` to signify the starting character. Afterwards, we could add an additional ```=``` because the level did mention that there is more than one in the line.
 
 Altogether:
+   
     strings data.txt | grep "^=="
